@@ -6,7 +6,7 @@
 
 ## MOTO
 
-- teadfast
+- Steadfast
 - Caring
 - Agility
 - Modern
